@@ -1,0 +1,23 @@
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+out/*
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/
+
+### VS Code ###
+.vscode
+
+#MetaInfo
+src/META-INF/*
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
